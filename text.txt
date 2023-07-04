@@ -4,3 +4,6 @@ khoobi?
 
 che khabar.
 monir
+new file info.txt
+
+add new content
